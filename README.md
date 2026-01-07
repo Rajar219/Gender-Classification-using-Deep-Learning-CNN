@@ -295,12 +295,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 AI and Python Developer | India
 
-
-
-- Open an issue in the repository
-- Reach out via GitHub
-- Connect on LinkedIn (add your profile link)
-
 **Project Status:** Active Development
 
 **Last Updated:** January 2026
